@@ -1,2 +1,3 @@
 # DeveloperWeb
 This is the mi first step like developer web pls wish me luck :3 
+i know html,css,js,sass,npm,composer,mysql,php,git,github, Etc ...
